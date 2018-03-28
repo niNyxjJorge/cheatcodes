@@ -1,13 +1,37 @@
-\\Aprendendo a mexer com Linuz\\
+# Aprendendo a mexer com Linuz
 
+[usuario]@[host]:[path-atual]
 
-
+## ssh
 ssh -p 2022 hubchain@192.168.0.200 -i ~/.ssh/id_rsahubchain
 ssh -p 2022 hubchain@odroid01 -i ~/.ssh/id_rsahubchain
 
+# Comandos basicos
 
-\\Comandos T:\\
+* sudo / su - [username]
+* passwd
+* ifconfig
+* ps
+* pwd
+* hostname
+* grep
+* echo
+* cd
+* mkdir
+* rm
+* ks
+* mv
+* nohup
+* history
+* tail
+* less
 
+# Editores de texto
+
+* nano
+* vim
+* vi
+* emacs
 
 download ipmongodb cliente
 para iniciar explorer  em background 
