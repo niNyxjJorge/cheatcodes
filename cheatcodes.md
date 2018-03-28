@@ -40,7 +40,7 @@ listar processos ps -ef
 mongodb port: 27017
 
 
-#Vagrants commands
+# Vagrants commands
 
 * nome da maquina: default;
 * vagrant help -->  Lista de comandos
