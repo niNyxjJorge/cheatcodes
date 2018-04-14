@@ -2,9 +2,7 @@
 
 [usuario]@[host]:[path-atual]
 
-## ssh
-ssh -p 2022 hubchain@192.168.0.200 -i ~/.ssh/id_rsahubchain
-ssh -p 2022 hubchain@odroid01 -i ~/.ssh/id_rsahubchain
+
 
 # Comandos basicos
 
